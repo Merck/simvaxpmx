@@ -1,0 +1,24 @@
+The simulation code uses third-party R packages which may be distributed under different
+licenses. We have listed all of these third party packages and their licenses
+below. 
+
+You must agree to the terms of these licenses, in addition to the simulation
+source code license, in order to use this software.
+
+  MIT License (or adaptations) (https://www.opensource.org/licenses/MIT)
+* dplyr - https://cran.r-project.org/web/packages/dplyr/index.html
+* ggplot2 - https://cran.r-project.org/web/packages/ggplot2/index.html
+* rlang - https://cran.r-project.org/web/packages/rlang/index.html
+* tidyr - https://cran.r-project.org/web/packages/tidyr/index.html
+* tidyverse - https://cran.r-project.org/web/packages/tidyverse/index.html
+
+  GNU License (https://opensource.org/licenses/gpl-license)
+* ggdist - https://cran.r-project.org/web/packages/ggdist/index.html
+* gridExtra - https://cran.r-project.org/web/packages/gridExtra/index.html
+* ggridges - https://cran.r-project.org/web/packages/ggridges/index.html
+* MASS - https://cran.r-project.org/web/packages/MASS/index.html
+* modelr - https://cran.r-project.org/web/packages/modelr/index.html
+* pracma - https://cran.r-project.org/web/packages/pracma/index.html
+* pROC - https://cran.r-project.org/web/packages/pROC/index.html
+* Rcpp - https://cran.r-project.org/web/packages/Rcpp/index.html
+* vaxpmx - https://cran.r-project.org/web/packages/vaxpmx/index.html
